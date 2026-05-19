@@ -77,7 +77,7 @@ Just hold, scan, act.
 
 Download the latest release:
 
-[Download Scani for macOS](https://github.com/YOUR_USERNAME/scani-downloads/releases/latest/download/Scani.dmg?utm_source=chatgpt.com)
+[Download Scani for macOS](https://github.com/StevenSteel7/Scani/releases/download/1.0.0/Scani.1.0.dmg)
 
 ---
 
