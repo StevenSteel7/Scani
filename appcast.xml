@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Scani Changelog</title>
+        <link>https://raw.githubusercontent.com/StevenSteel7/Scani/main/appcast.xml</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+
+        <item>
+            <title>Version 1.0</title>
+            <description><![CDATA[<h2>Initial release</h2>]]></description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/StevenSteel7/Scani/releases/download/1.0.0/Scani.1.0.dmg"
+                sparkle:version="1"
+                sparkle:shortVersionString="1.0"
+                sparkle:edSignature="g0t54O+npHUueCg4jbJO2W+VpbWKobiyNReqixkYhM8itG+w/KgVVuQv3ElZzl98vypZKW+qAul42yw+tPWTCg=="
+                length="2818934"
+                type="application/x-apple-diskimage" />
+        </item>
+
+    </channel>
+</rss>
