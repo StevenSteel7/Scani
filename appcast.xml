@@ -7,6 +7,28 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.1.0</title>
+            <description><![CDATA[
+                <h2>Languages, Custom Hotkeys &amp; Auto-Updates</h2>
+                <ul>
+                    <li>Added Korean, Japanese, Chinese (Simplified &amp; Traditional), German, Spanish, French, Italian, Russian OCR support</li>
+                    <li>Set a custom key combination to trigger scans in Settings</li>
+                    <li>Automatic updates via Sparkle</li>
+                    <li>Improved text selection — larger hit area on handles</li>
+                    <li>Bug fixes</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 22 May 2026 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/StevenSteel7/Scani/releases/download/1.1.0/Scani.1.1.0.dmg"
+                sparkle:version="2"
+                sparkle:shortVersionString="1.1.0"
+                sparkle:edSignature="gfR6v92ApUYtTcs7WBe/qM+kcdHz54lTkG48y4ekV8zZHd/GFk6LyhnAkkdlu7Jq6uDgSamaXxYvEyM5tr18Dw=="
+                length="3792232"
+                type="application/x-apple-diskimage" />
+        </item>
+
+        <item>
             <title>Version 1.0</title>
             <description><![CDATA[<h2>Initial release</h2>]]></description>
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
