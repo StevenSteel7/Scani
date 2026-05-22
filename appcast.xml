@@ -14,6 +14,7 @@
                     <li>Added Korean, Japanese, Chinese (Simplified &amp; Traditional), German, Spanish, French, Italian, Russian OCR support</li>
                     <li>Set a custom key combination to trigger scans in Settings</li>
                     <li>Automatic updates via Sparkle</li>
+                    <li>Added QR Code and Barcode Scan Support so you can Search or Copy QR code/Barcode links</li>
                     <li>Improved text selection — larger hit area on handles</li>
                     <li>Bug fixes</li>
                 </ul>
@@ -23,8 +24,8 @@
                 url="https://github.com/StevenSteel7/Scani/releases/download/1.1.0/Scani.1.1.0.dmg"
                 sparkle:version="2"
                 sparkle:shortVersionString="1.1.0"
-                sparkle:edSignature="gfR6v92ApUYtTcs7WBe/qM+kcdHz54lTkG48y4ekV8zZHd/GFk6LyhnAkkdlu7Jq6uDgSamaXxYvEyM5tr18Dw=="
-                length="3792232"
+                sparkle:edSignature="UV0WbHPNU/fczBMJ3Gl8t4j1+zdckDyNvVj7xJUl+hhlCK7Jl0bAlWILyDztiXQIRP+HKxtbYru8sBKLYvwtDA==" 
+                length="3812846"
                 type="application/x-apple-diskimage" />
         </item>
 
