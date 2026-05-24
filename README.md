@@ -121,5 +121,5 @@ Scani is proprietary software. Redistribution or reverse engineering is prohibit
 For support or licensing inquiries:
 
 ```txt
-hello@erdente.com
+support@erdente.com
 ```
