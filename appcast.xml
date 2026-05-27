@@ -7,6 +7,25 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.1.1</title>
+            <description><![CDATA[
+                <h2>Bug Fixes</h2>
+                <ul>
+                    <li>Fixed external monitor support - Scani now works correctly on multi monitor setups</li>
+                    <li>Scani now uses less RAM.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/StevenSteel7/Scani/releases/download/1.1.1/Scani.1.1.1.dmg"
+                sparkle:version="3"
+                sparkle:shortVersionString="1.1.1"
+                sparkle:edSignature="ZYevZmd2Hm7dXNAitTM3Sq7UYOrITVXw/8x0B2DYWq/riVQSeJoemooqCZN2X6+hl1t3oL7qsQlQ30WAznRrCw==" 
+		        length="3815979"
+                type="application/x-apple-diskimage" />
+        </item>
+
+        <item>
             <title>Version 1.1.0</title>
             <description><![CDATA[
                 <h2>Languages, Custom Hotkeys &amp; Auto-Updates</h2>
